@@ -1,4 +1,4 @@
-project: jacob-clemente/libcaption
+project: libcaption
 target: ts2srt
 
 cmds:
